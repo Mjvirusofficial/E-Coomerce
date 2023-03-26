@@ -1,0 +1,21 @@
+{
+  "post": [
+    {
+      "username": 1,
+      "email": "json-server",
+      "password": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "user": {
+    "username": "Mj",
+    "email": "deepakravidas565@gmail.com",
+    "password": "Deepak"
+  }
+}
